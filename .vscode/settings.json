@@ -1,0 +1,5 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
